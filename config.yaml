@@ -1,0 +1,8 @@
+host: 127.0.0.1
+port: 5000
+database: data/framework.db
+log_file: logs/framework.log
+lab_base_url: http://127.0.0.1:5000
+nvd_api_key: ""
+request_timeout: 5
+max_fetch_bytes: 512000
